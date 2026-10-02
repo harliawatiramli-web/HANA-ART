@@ -1,0 +1,6 @@
+{
+  "name": "Studio Hana Art",
+  "description": "Laman rasmi Studio Hana Art - Menginspirasikan seni, memperkasa warisan budaya, dan memacu kecemerlangan seni visual kontemporari bertaraf dunia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
